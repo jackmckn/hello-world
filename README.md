@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+What's good!
+
+Let's get this show on the road...
